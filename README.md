@@ -13,6 +13,8 @@ The website contains my personal notes for the courses , im taking in software d
 |SQL | [SQL practice](./sql.md) 
 |TERMINAL     | [Terminal](./terminal.md)
 |class-01     | [class-01](./class-01.md)
+|class-02    | [class-02](./class-02.md)
+
 |THE GROWTH Mindset   | [THE GROWTH Mindset](./growth.md)
 
 
