@@ -12,6 +12,10 @@ The website contains my personal notes for the courses , im taking in software d
 | :---        |    :----:
 |SQL | [SQL practice](./sql.md) 
 |TERMINAL     | [Terminal](./terminal.md)
+|Data Structure     | [Data](./data.structure.md)
+
+|Engineering Readings| [Engineering](./Engineering.md)
+
 |class-01     | [class-01](./class-01.md)
 |class-02    | [class-02](./class-02.md)
 
