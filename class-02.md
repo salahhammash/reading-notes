@@ -35,5 +35,5 @@ In Python, recursion can be used to solve problems that can be broken down into 
 **difference between modules and packages**
 
 the main difference between modules and packages in Python is that a module is a single file containing Python code, while a package is a collection of related modules organized in a directory hierarchy.
-
+  
 To create a module or package in Python, you can simply create a new Python file or directory and give it a meaningful name To import a module or package into your Python program, you can use the import statement
