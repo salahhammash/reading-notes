@@ -44,3 +44,7 @@ The author argues that building software alone does not necessarily make a progr
 ## BIASES
 
 ![BIASES](./screenSHOt/bias.png)
+
+
+## Emotional Intelligence
+![Emotional](./screenSHOt/groth.png)
