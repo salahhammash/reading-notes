@@ -25,6 +25,8 @@ The website contains my personal notes for the courses , im taking in software d
 |class-08   | [class-08](./class-08.md)
 |class-09   | [class-09](./class-09.md)
 |class-10   | [class-10](./class-10.md)
+|class-11   | [class-11](./class-11.md)
+
 
 
 
