@@ -1,4 +1,4 @@
-### What are the key differences between Matplotlib, Seaborn, and Bokeh libraries in terms of their features and use cases? Provide an example of a specific visualization that is more suitable for each library
+## What are the key differences between Matplotlib, Seaborn, and Bokeh libraries in terms of their features and use cases? Provide an example of a specific visualization that is more suitable for each library
 Matplotlib:
 Matplotlib is a powerful and flexible plotting library that provides a wide range of customization options.
 It is a low-level library that allows fine-grained control over the appearance of visualizations
@@ -20,7 +20,7 @@ Example: An interactive line plot with tooltips that display additional informat
 
 
 
-### In the Seaborn library, what are the main functions to create relational, categorical, and distribution plots? Briefly explain the purpose of each type of plot and provide an example use case.
+## In the Seaborn library, what are the main functions to create relational, categorical, and distribution plots? Briefly explain the purpose of each type of plot and provide an example use case.
 Relational plots:
 
 scatterplot(): Creates a scatter plot to visualize the relationship between two continuous variables.
@@ -37,7 +37,7 @@ histplot(): Creates a histogram to visualize the distribution of a single variab
 kdeplot(): Plots the Kernel Density Estimate of a variable's distribution.
 Example use case: Analyzing the distribution of students' test scores
 
-### Discuss the role of the Seaborn Cheat Sheet in a Python developer’s workflow. What are some key sections or elements featured in the cheat sheet that can help a developer quickly reference Seaborn functionalities? 
+## Discuss the role of the Seaborn Cheat Sheet in a Python developer’s workflow. What are some key sections or elements featured in the cheat sheet that can help a developer quickly reference Seaborn functionalities? 
 
 The Seaborn Cheat Sheet is a handy reference guide that summarizes the key functionalities and syntax of Seaborn. It helps developers quickly find and understand the available plot types, customization options, and the corresponding code snippets. The cheat sheet typically includes sections such as:
 
