@@ -30,14 +30,24 @@ Consider a webpage with the following HTML structure:
     </div>
   </body>
 </html>
-To select the <h1> element with the class attribute "container," the XPath expression would be:
+To select the 
+<!-- <h1> -->
+ element with the class attribute "container," the XPath expression would be:
 
 
  (//div[@class='container']/h1)
 
 - This expression breaks down as follows:
 
-//div: Select any <div> element in the document.
-[@class='container']: Check if the selected <div> has the attribute class equal to "container".
-/h1: Select the <h1> element that is a direct child of the matching <div>.
-The resulting XPath expression //div[@class='container']/h1 would select the desired <h1> element from the webpage.
+//div: Select any 
+<!-- <div>  -->
+element in the document.
+[@class='container']: Check if the selected
+ <!-- <div> -->
+  has the attribute class equal to "container".
+/h1: Select the 
+<!-- <h1> -->
+ element that is a direct child of the matching <div>.
+The resulting XPath expression //div[@class='container']/h1 would select the desired 
+<!-- ( <h1> ) -->
+element from the webpage.
