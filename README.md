@@ -32,6 +32,9 @@ The website contains my personal notes for the courses , im taking in software d
 |class-15   | [class-15](./class-15.md)
 |class-16   | [class-16](./class-16.md)
 |class-17   | [class-17](./class-17.md)
+|class-18   | [class-18](./class-18.md)
+|class-19   | [class-19](./class-19.md)
+
 
 
 
