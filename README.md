@@ -38,6 +38,8 @@ The website contains my personal notes for the courses , im taking in software d
 |class-27   | [class-27](./class-27.md)
 |class-28   | [class-28](./class-28.md)
 |class-29   | [class-29](./class-29.md)
+|class-30   | [class-30](./class-30.md)
+
 
 
 
