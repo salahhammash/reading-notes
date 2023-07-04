@@ -40,6 +40,8 @@ The website contains my personal notes for the courses , im taking in software d
 |class-29   | [class-29](./class-29.md)
 |class-30   | [class-30](./class-30.md)
 |class-31   | [class-31](./class-31.md)
+|class-32   | [class-32](./class-32.md)
+
 
 
 
