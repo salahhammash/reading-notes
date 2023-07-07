@@ -42,6 +42,8 @@ The website contains my personal notes for the courses , im taking in software d
 |class-31   | [class-31](./class-31.md)
 |class-32   | [class-32](./class-32.md)
 |class-33   | [class-33](./class-33.md)
+|class-34   | [class-34](./class-34.md)
+
 
 
 
