@@ -27,7 +27,7 @@ The WhiteNoise library contributes to the efficient serving of static files in a
 Here are the steps to integrate WhiteNoise into a Django project:
 
 Install WhiteNoise: Start by installing the WhiteNoise library using pip:
-shell
+
 pip install whitenoise
 Configure Django settings: In your Django project's settings.py file, add the WhiteNoise middleware to the MIDDLEWARE setting. Place it just before the django.middleware.security.SecurityMiddleware for proper functioning:
 
@@ -44,7 +44,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 Note: The STATIC_ROOT setting specifies the directory where static files will be collected during the deployment process.
 
 Collect static files: Run the following command to collect static files into the STATIC_ROOT directory:
-shell
+
  manage.py collectstatic
 This command gathers all static files from your project's apps and places them in the STATIC_ROOT directory.
 
@@ -68,21 +68,19 @@ The purpose of CORS in web applications is to control and restrict access to res
 To implement and configure CORS in a Django project, you can follow these steps:
 
 Install Django CORS headers: Start by installing the Django CORS headers library using pip:
-shell
-Copy code
+
 pip install django-cors-headers
 Configure Django settings: In your Django project's settings.py file, add the CORS middleware to the MIDDLEWARE setting. Place it after the django.middleware.security.SecurityMiddleware for proper functioning:
-python
-Copy code
+
+
 MIDDLEWARE = [
     # ...
     'django.middleware.security.SecurityMiddleware',
     'corsheaders.middleware.CorsMiddleware',
-    # ...
+    # ... 
 ]
 Configure CORS settings: In the settings.py file, define the CORS_ORIGIN_WHITELIST setting to specify the allowed origins that can access your Django resources. For example:
-python
-Copy code
+
 CORS_ORIGIN_WHITELIST = [
     'http://example.com',
     'https://subdomain.example.com',
