@@ -44,6 +44,8 @@ The website contains my personal notes for the courses , im taking in software d
 |class-33   | [class-33](./class-33.md)
 |class-34   | [class-34](./class-34.md)
 |class-35   | [Graphs](./class-35.md)
+|class-36   | [Graphs](./class-36.md)
+
 
 
 
