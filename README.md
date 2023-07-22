@@ -46,6 +46,9 @@ The website contains my personal notes for the courses , im taking in software d
 |class-35   | [Graphs](./class-35.md)
 |class-36   | [Graphs](./class-36.md)
 |class-37   | [React](./class-37.md)
+|class-38   | [React](./class-38.md)
+
+
 
 
 
@@ -80,7 +83,6 @@ The website contains my personal notes for the courses , im taking in software d
 
    
 
----
 
 
 
