@@ -64,13 +64,6 @@ Inside the return statement, we use conditional rendering to display different c
 Additionally, we have a button that toggles the login status. When the button is clicked, the handleLoginToggle function is called, and it updates the isLoggedIn state to its opposite value, effectively changing the displayed message.
 
 
-
-
-
-
-
-
-
 # What are the main principles behind “Thinking in React” and how do they guide the process of designing and building a React application?
 
 "Thinking in React" is an approach to designing and building React applications, popularized by the official React documentation. It provides a set of principles and guidelines to help developers understand how to break down user interfaces into components and how to structure their React applications effectively. Here are the main principles behind "Thinking in React" and how they guide the process of designing and building a React application:
