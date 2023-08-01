@@ -49,6 +49,8 @@ The website contains my personal notes for the courses , im taking in software d
 |class-38   | [React2](./class-38.md)
 |class-39   | [React Context](./class-39.md)
 |class-41   | [Next-Routing](./class-41.md)
+|class-42  | [Ethics ](./class-42.md)
+
 
 
 
